@@ -10,8 +10,10 @@ A Connect Eco funciona de maneira simples e intuitiva. Os usuários podem buscar
 A Connect Eco não é apenas uma plataforma de reciclagem. Nós acreditamos que a reciclagem é uma responsabilidade compartilhada e trabalhamos para criar uma comunidade engajada e informada. Com nossa plataforma, queremos simplificar a reciclagem e incentivar mais pessoas a participar desse movimento tão importante.
 
 ## Benefícios da Connect Eco
-**Usuários**: Encontre rapidamente pontos de coleta; tenha informações sobre os materiais do local; receba dicas e orientações de como reciclar de forma eficaz.
-**Empresas(Pontos de coleta)**: Maior visibilidade do seu ponto de coleta; participe de uma rede ativa com pessoas engajadas; Contribuindo em equipe para ambiente mais limpo e sustentável.
+
+- **Usuários**: Encontre rapidamente pontos de coleta; tenha informações sobre os materiais do local; receba dicas e orientações de como reciclar de forma eficaz.
+
+- **Empresas(Pontos de coleta)**: Maior visibilidade do seu ponto de coleta; participe de uma rede ativa com pessoas engajadas; Contribuindo em equipe para ambiente mais limpo e sustentável.
 
 ## Junte-se a Nós
 A reciclagem é uma das maneiras mais simples e eficazes de proteger o meio ambiente. Com a Connect Eco, reciclar nunca foi tão fácil. Junte-se a nós e faça parte dessa mudança positiva. Acesse hoje mesmo e descubra como você pode contribuir para um mundo mais sustentável, e você que quer se tornar um ponto de coleta para refoçar nosso time, mande um email.
