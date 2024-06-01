@@ -33,7 +33,7 @@ A Connect Eco não é apenas uma plataforma de reciclagem. Nós acreditamos que 
 ### Data Analyst (DA)
 - [Luiz Guilherme Pereira](https://www.linkedin.com/in/luiz-g-pereira)
 
-- [Patrícia](https://www.linkedin.com/in/patriciamgc/)
+- [Patrícia Costa](https://www.linkedin.com/in/patriciamgc/)
   
 - [Luiz Guilherme Pereira](https://www.linkedin.com/in/gabrielamoroso/)
 
