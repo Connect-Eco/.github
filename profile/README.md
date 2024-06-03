@@ -9,6 +9,10 @@ A Connect Eco funciona de maneira simples e intuitiva. Os usuários podem buscar
 ## Por que Escolher a Connect Eco?
 A Connect Eco não é apenas uma plataforma de reciclagem. Nós acreditamos que a reciclagem é uma responsabilidade compartilhada e trabalhamos para criar uma comunidade engajada e informada. Com nossa plataforma, queremos simplificar a reciclagem e incentivar mais pessoas a participar desse movimento tão importante.
 
+## Experimente
+![image](https://github.com/Connect-Eco/.github/assets/79286388/daff86ff-b7f3-49c5-88cf-17f45a573229)
+
+link: https://connecteco.vercel.app/
 ## Benefícios da Connect Eco
 
 **Usuários**
