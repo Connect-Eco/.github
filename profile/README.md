@@ -54,8 +54,9 @@ link: https://connecteco.vercel.app/
 
 - [Ludmilla Lima](https://www.linkedin.com/in/ludmilla-lima-3b21b312a)
 
-  
-## Junte-se a Nós
-A reciclagem é uma das maneiras mais simples e eficazes de proteger o meio ambiente. Com a Connect Eco, reciclar nunca foi tão fácil. Junte-se a nós e faça parte dessa mudança positiva. Acesse hoje mesmo e descubra como você pode contribuir para um mundo mais sustentável, e você que quer se tornar um ponto de coleta para refoçar nosso time, mande um email.
 ## Link do Notion
 https://www.notion.so/9fd6a3f81c31401d8fd76bac57741286
+
+## Junte-se a Nós
+A reciclagem é uma das maneiras mais simples e eficazes de proteger o meio ambiente. Com a Connect Eco, reciclar nunca foi tão fácil. Junte-se a nós e faça parte dessa mudança positiva. Acesse hoje mesmo e descubra como você pode contribuir para um mundo mais sustentável, e você que quer se tornar um ponto de coleta para refoçar nosso time, mande um email.
+
