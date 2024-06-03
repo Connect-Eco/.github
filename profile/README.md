@@ -41,6 +41,7 @@ link: https://connecteco.vercel.app/
   
 - [Gabriel Amoroso](https://www.linkedin.com/in/gabrielamoroso/)
 
+
 ### Quality Assurance (QA)
 - [Angela Ribeiro](https://www.linkedin.com/in/angelaribeiro84) 
 
